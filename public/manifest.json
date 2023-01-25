@@ -1,0 +1,17 @@
+{
+  "short_name": "프로젝트이름",
+  "name": "... | 프로젝트이름",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#522AFF",
+  "background_color": "#f2f2f2",
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}

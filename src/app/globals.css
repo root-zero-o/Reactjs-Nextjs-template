@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* HTML요소에 기본 스타일 추가 */
+@layer base {
+  h1 {
+    @apply text-2xl;
+  }
+}
+
+/* 특정 컴포넌트에 스타일 추가 */
+@layer components {
+  .card {
+    background-color: theme('colors.white');
+    border-radius: theme('borderRadius.lg');
+    padding: theme('spacing.6');
+    box-shadow: theme('boxShadow.xl');
+  }
+}
+
+/* 유틸리티 커스터마이징 */
+@layer utilities {
+  .content-auto {
+    content-visibility: auto;
+  }
+}
