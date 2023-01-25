@@ -4,15 +4,16 @@ by [```root-zero-o```](https://github.com/root-zero-o/Reactjs-Nextjs-template)
 
 ## Index
 
-- [Files]()
-- [Route]()
-- [Components]()
-- [Styling]()
-- [SEO]()
-- [Google Analytics, Google tag manager]()
-- [ESLint, Prettier]()
-- [Build]()
-- [etc]()
+- [Files](https://github.com/root-zero-o/Reactjs-Nextjs-template#files)
+- [Route](https://github.com/root-zero-o/Reactjs-Nextjs-template#route)
+- [Components](https://github.com/root-zero-o/Reactjs-Nextjs-template#components)
+- [Styling](https://github.com/root-zero-o/Reactjs-Nextjs-template#styling)
+- [Data Fetching](https://github.com/root-zero-o/Reactjs-Nextjs-template#data-fetching)
+- [SEO](https://github.com/root-zero-o/Reactjs-Nextjs-template#seo)
+- [Google Analytics, Google tag manager](https://github.com/root-zero-o/Reactjs-Nextjs-template#google-analytics-google-tag-manager)
+- [ESLint, Prettier](https://github.com/root-zero-o/Reactjs-Nextjs-template#eslint-prettier)
+- [Build](https://github.com/root-zero-o/Reactjs-Nextjs-template#build)
+- [etc](https://github.com/root-zero-o/Reactjs-Nextjs-template#etc)
 
 <br/>
 
